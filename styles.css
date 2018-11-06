@@ -1,0 +1,23 @@
+h1 {
+  color: rgba(0, 0, 0, 1);
+  font-family: helvetica;
+  font-size: 70px;
+  text-align: center;
+}
+h2 {
+  color: rgba(0, 0, 0, 1);
+  font-family: helvetica;
+  font-size: 20px;
+  text-align: center;
+}
+p {
+  color: rgba(0, 0, 0, 1);
+  font-family: helvetica;
+  font-size: 11px;
+}
+table, th, td {
+   font-family: helvetica;
+   text-align: left;
+   table-layout: fixed;
+width: 100%;
+}
